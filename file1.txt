@@ -1,5 +1,1 @@
-other file
-
-trying out the new ssh key
-
-new stuff
+file reset
