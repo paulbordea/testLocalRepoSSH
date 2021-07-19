@@ -1,3 +1,3 @@
 file reset
 
-change from branch feature1
+change from branch dev
